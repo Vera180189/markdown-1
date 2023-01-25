@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 f8fc02ce879a8b0e2f8e4b7f925632e7a29978f5 Vera <sandinavera@mail.ru> 1674645204 +0300	commit (initial): init markdown
+f8fc02ce879a8b0e2f8e4b7f925632e7a29978f5 f8fc02ce879a8b0e2f8e4b7f925632e7a29978f5 Vera <sandinavera@mail.ru> 1674645324 +0300	checkout: moving from master to new
+f8fc02ce879a8b0e2f8e4b7f925632e7a29978f5 39d15753e3c037f8a016f80f6920e38c21a4292c Vera <sandinavera@mail.ru> 1674645515 +0300	commit: change markdown
+39d15753e3c037f8a016f80f6920e38c21a4292c f8fc02ce879a8b0e2f8e4b7f925632e7a29978f5 Vera <sandinavera@mail.ru> 1674646422 +0300	checkout: moving from new to master
+f8fc02ce879a8b0e2f8e4b7f925632e7a29978f5 5ec3187786a556fdc520d2a76b27788503e5cdc8 Vera <sandinavera@mail.ru> 1674646837 +0300	commit: change markdown 2
+5ec3187786a556fdc520d2a76b27788503e5cdc8 efa1abef5011a3e14db7586997650f66a6f5434c Vera <sandinavera@mail.ru> 1674647557 +0300	commit (merge): conflict
